@@ -1,4 +1,3 @@
-
 # apex-shared-services-platform
 
 Shared services platform repository.
