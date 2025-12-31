@@ -1,9 +1,20 @@
-#Title, 
 
-#goal, 
+# apex-shared-services-platform
 
-#stack, 
+Shared services platform repository.
 
-#how to run, 
+## Layout
 
-#how to deploy
+- `docs/` documentation
+- `db/` database assets (`migrations/`, `seed/`)
+- `apex/` Salesforce Apex assets (`exports/`)
+- `cicd/` CI/CD supporting files
+- `.github/workflows/` GitHub Actions workflows
+
+## Contributing
+
+See `CONTRIBUTING.md`.
+
+## Security
+
+See `SECURITY.md`.
